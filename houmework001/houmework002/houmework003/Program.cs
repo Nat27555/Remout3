@@ -9,4 +9,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if (number % 2 == 0 ) 
 System.Console.WriteLine( "Число четное : " + number );
-else System.Console.WriteLine("Число нечетное: " + number);
+else System.Console.WriteLine( "Число нечетное : " + number );
